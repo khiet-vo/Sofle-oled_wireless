@@ -73,9 +73,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - DEL
+  - '-'
+  - '='
+  - BACKSPACE
   - {t: ▽, type: trans}
   - INS
   - PSCRN
@@ -83,23 +83,23 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
-  - {t: ▽, type: trans}
   - UP
-  - {t: ▽, type: trans}
-  - '0'
-  - {t: ▽, type: trans}
+  - UP
+  - '['
+  - ']'
+  - \
   - LEFT CONTROL
   - LALT
   - LCTRL
   - LSHFT
   - {t: ▽, type: trans}
   - CLCK
-  - PG DN
-  - LEFT
-  - DOWN
-  - RIGHT
-  - DEL
-  - BSPC
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
+  - ;
+  - '"'
+  - ENTER
   - LEFT SHIFT
   - UNDO
   - CUT
@@ -110,9 +110,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ','
+  - .
+  - /
   - RIGHT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
